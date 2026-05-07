@@ -20,4 +20,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frida-Vazquez&layout=compact&bg_color=1a1b27&title_color=ff69b4&text_color=ffffff&icon_color=ffd700&hide=php,batchfile&langs_count=5)
+
